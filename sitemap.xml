@@ -3,13 +3,19 @@
   
   <url>
       <loc>https://evoluaonline.github.io/cursos/</loc>
-      <lastmod>2025-11-25</lastmod>
+      <lastmod>2025-12-12</lastmod>
       <priority>0.8</priority>
    </url>
    
    <url>
       <loc>https://evoluaonline.github.io/cursos/fone-ouvido/fones-ate-50-reais.html</loc>
-      <lastmod>2025-11-25</lastmod>
+      <lastmod>2025-12-12</lastmod>
+      <priority>0.8</priority>
+   </url>
+   
+   <url>
+      <loc>https://evoluaonline.github.io/cursos/fone-ouvido/</loc>
+      <lastmod>2025-12-12</lastmod>
       <priority>0.8</priority>
    </url>
 
